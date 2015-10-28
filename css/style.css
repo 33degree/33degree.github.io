@@ -677,3 +677,40 @@ p.title {
 	height: 45px;
 	padding: 10px 0;
 }
+
+
+
+
+#tf-agenda td {
+	border-left: 1px solid #DDD;
+}
+
+#tf-agenda tr {
+	height: 80px;
+}
+
+#tf-agenda th {
+	padding-top: 60px;
+}
+
+#tf-agenda td .rooms {
+  	text-align: center;
+  	padding-top: 40px;
+  	border-top: 0;
+}
+
+#tf-agenda .break {
+	background: #59A59F;
+	color: white;
+	padding: 20px 0;
+	font-size: 20px;
+}
+
+#tf-agenda .time {
+	border-left: 0;
+}
+
+#tf-agenda h3 {
+	text-align: left;
+	padding-top: 20px;
+}
