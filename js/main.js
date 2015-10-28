@@ -119,7 +119,12 @@ function main() {
 
     });
 
-
+    /*====================================
+    Enabling popovers on the page
+    ======================================*/
+    $(function () {
+        $('[data-toggle="popover"]').popover()
+    })
 
 }());
 
