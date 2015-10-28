@@ -679,8 +679,6 @@ p.title {
 }
 
 
-
-
 #tf-agenda td {
 	border-left: 1px solid #DDD;
 }
@@ -713,4 +711,17 @@ p.title {
 #tf-agenda h3 {
 	text-align: left;
 	padding-top: 20px;
+}
+
+
+/* FAQ */
+#faq p {
+	font-size: 16px;
+	margin: 12px 0px 0px;
+	line-height: 24px;
+	font-family: "Open Sans",sans-serif;
+}
+
+#faq .question {
+	font-weight: bold;
 }
