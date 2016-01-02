@@ -753,6 +753,11 @@ p.title {
 
 
 /* FAQ */
+
+#faq {
+	margin: 80px 0;
+}
+
 #faq p {
 	font-size: 16px;
 	margin: 12px 0px 0px;
